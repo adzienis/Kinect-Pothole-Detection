@@ -27,9 +27,8 @@ Our findings and a more in-depth explanation are found in our poster file:
 [Poster](https://drive.google.com/file/d/1OULftGTT2nOWm3ECtMFWzxOkLVPzsTF-/view?usp=sharing)
 
 Some detections:
-![](https://i.imgur.com/XG3y9Hz.png)
-
 ![](https://i.imgur.com/s1JYtvq.png)
+![](https://i.imgur.com/XG3y9Hz.png)
 
 In addition, a video highlighting some of our real life evaluations is provided:
 
