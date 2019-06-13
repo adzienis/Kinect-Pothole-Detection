@@ -1,6 +1,6 @@
 # Kinect Pothole Detection
 
-##Arthur Dzieniszewski & William Mitchell
+## Arthur Dzieniszewski & William Mitchell
 
 Final project created for CMU's spring 15-418,
 Parallel Computer Architecture & Programming course.
