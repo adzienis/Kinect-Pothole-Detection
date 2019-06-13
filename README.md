@@ -26,6 +26,11 @@ Our findings and a more in-depth explanation are found in our poster file:
 
 [Poster](https://drive.google.com/file/d/1OULftGTT2nOWm3ECtMFWzxOkLVPzsTF-/view?usp=sharing)
 
+Some detections:
+![](https://i.imgur.com/XG3y9Hz.png)
+
+![](https://i.imgur.com/s1JYtvq.png)
+
 In addition, a video highlighting some of our real life evaluations is provided:
 
 [Video](https://drive.google.com/open?id=1k-rRtn9M_zvdkkj7QfxSN9mWZmkKB762)
