@@ -29,3 +29,8 @@ Our findings and a more in-depth explanation are found in our poster file:
 In addition, a video highlighting some of our real life evaluations is provided:
 
 [Video](https://drive.google.com/open?id=1k-rRtn9M_zvdkkj7QfxSN9mWZmkKB762)
+
+Built off work from an MPI implementation of kmeans.c designed for another purpose.
+We added the capability to handle work not divisible by processors, communication
+with a master Python process, improved scatter and gather uses, and some OpenMP pragmas such
+as explicit vectorization (still done regardless with -O3) [link][https://github.com/rexdwyer/MPI-K-means-clustering]
